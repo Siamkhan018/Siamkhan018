@@ -1,7 +1,7 @@
-(https://pbs.twimg.com/profile_banners/1480474417830453255/1645473880/600x200)
+![I am a web developer & designer.](https://pbs.twimg.com/profile_banners/1480474417830453255/1645473880/600x200)
 ### Hi there 👋, My name is Siam khan
 #### I am a web developer & designer.
-![I am a web developer & designer.]
+
 
 I love to write code. There are many services I provide based on Front End Web development. Some work samples I upload in this profile you can see that.
 If you need any kind of service based on Front End Web Development, You can knock me. 
