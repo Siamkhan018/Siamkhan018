@@ -10,7 +10,7 @@ You can also knock me If you need any kind of WordPress-based service(website bu
 
 Best Regards
 
-Skills: HTML / CSS/ Javascript/ Bootstarp 5/ Wordpress
+Skills: HTML / CSS/ Javascript/ REACT JS / Bootstarp 5/ Wordpress
 
 - 🔭 I’m currently working on Fiverr and Upwork. 
 - 🌱 I’m currently learning The University of Chittagong. 
